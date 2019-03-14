@@ -9,7 +9,7 @@ namespace Patient
         string allergies; // The patient allergies (will be in a array)
         string dependants; // The patient dependants (will be in a array)
         string conditions; // The patient conditions (will be in a array)
-        double outstandingBalance; //If the patient got any outstanding balance
+        double outstandingBalance; /The patient outstanding balance
         string bloodType; // The patient blood type
 
 
